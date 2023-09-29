@@ -1,0 +1,29 @@
+﻿
+html {
+    background: linear-gradient(135deg,#833AB4,#E4405F);
+    height: 100vh;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.perfil {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: linear-gradient(135deg,#833AB4,#E4405F);
+    height: 100vh;
+    margin: auto;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+}
+
+

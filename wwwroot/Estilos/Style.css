@@ -1,0 +1,29 @@
+﻿
+
+html {
+    background: linear-gradient(135deg,#833AB4,#E4405F);
+    height: 100vh;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+}
+
+.datos {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    /*/*  border-radius: 10px;*/ */ background-color: #f9f9f9;
+}
+
+#Imagen2 {
+    max-width: 70px;
+    max-height: 70px;
+    border-radius: 50%;
+}
+
+
